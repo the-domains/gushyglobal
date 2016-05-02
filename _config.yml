@@ -1,7 +1,7 @@
 name: gushyglobal
 favicon: null
-layout_spectrum: 0.47094856062904
-typography_spectrum: 0.28869641246274114
+layout_spectrum: 0.28947
+typography_spectrum: 0.56274
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.32365451101213694
-  lightness: 0.5642023941036314
-  saturation: 0.5019088808912784
-  rhythmicContrast: 0.5447185800876468
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.8125
+  rhythmicContrast: 0.5
 purpose: []
