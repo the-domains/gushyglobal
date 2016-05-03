@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: The beginning of something starts with action. Ive spent years on what I do.
-datePublished: '2016-05-02T20:58:13.747Z'
-dateModified: '2016-05-02T20:55:55.813Z'
+description: 'The beginning of something starts with action. '
+datePublished: '2016-05-03T04:00:40.767Z'
+dateModified: '2016-05-02T20:59:45.093Z'
 title: ''
 author:
   - name: ''
@@ -26,4 +26,4 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baab2600-7d87-4e1a-addb-7b4a63438c45.jpg)
 
-The beginning of something starts with action. Ive spent years on what I do.
+The beginning of something starts with action.
