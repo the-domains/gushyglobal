@@ -1,28 +1,40 @@
-name: gushyglobal
 favicon: null
-layout_spectrum: 0.28947
-typography_spectrum: 0.56274
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: gushyglobal
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.8125
+  brandStrength: 0
+  rhythmicContrast: 0.5
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0
   lightness: 0.625
-  saturation: 0.8125
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.5017921
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
